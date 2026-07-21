@@ -1,0 +1,46 @@
+# Object files
+*.o
+*.obj
+
+# Executables
+*.out
+*.elf
+*.bin
+*.hex
+*.map
+
+# Debug symbols
+*.dSYM/
+
+# Coverage
+*.gcda
+*.gcno
+*.gcov
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*~
+*.swp
+
+# STM32CubeIDE / Eclipse workspace
+.metadata/
+**/.metadata/
+
+# Eclipse
+.settings/
+.project
+.cproject
+
+# Build outputs
+Debug/
+Release/
+build/
+Build/
+out/
+bin/
